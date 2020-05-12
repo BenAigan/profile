@@ -1,0 +1,6 @@
+# Start
+
+git clone https://github.com/git-lfs/lfs-test-server.git
+cd lfs-test-server
+go build -o lfs-test-server
+
